@@ -1,3 +1,5 @@
+# Ajout d'un commentaire pour l'activité Git
+
 variable = 0
 
 for i in range(1, 1000):
